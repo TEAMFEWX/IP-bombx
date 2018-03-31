@@ -6,7 +6,7 @@
 ##############################################
 
 #install
-git clone https://github.com/Hydra7/Planetwork-DDOS
+git clone https://github.com/TEAMFEWX/IP-bombx
 cd Planetwork-DDOS
 python2 ./pntddos.py
 
